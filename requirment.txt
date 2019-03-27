@@ -1,0 +1,35 @@
+# packages in environment at /home/abhi/anaconda3/envs/AIML:
+#
+# Name                    Version                   Build  Channel
+aiml                      0.9.2                     <pip>
+asn1crypto                0.24.0                   py35_3    conda-forge
+beautifulsoup4            4.6.3                    py35_0    conda-forge
+ca-certificates           2019.3.9             hecc5488_0    conda-forge
+certifi                   2018.8.24             py35_1001    conda-forge
+cffi                      1.11.5           py35h5e8e0c9_1    conda-forge
+chardet                   3.0.4                    py35_3    conda-forge
+cryptography              2.3.1            py35hdffb7b8_0    conda-forge
+cryptography-vectors      2.3.1                    py35_0    conda-forge
+idna                      2.7                      py35_2    conda-forge
+libedit                   3.1.20181209         hc058e9b_0  
+libffi                    3.2.1                hd88cf55_4  
+libgcc-ng                 8.2.0                hdf63c60_1  
+libstdcxx-ng              8.2.0                hdf63c60_1  
+ncurses                   6.1                  he6710b0_1  
+openssl                   1.0.2r               h14c3975_0    conda-forge
+pip                       10.0.1                   py35_0  
+pycparser                 2.19                       py_0    conda-forge
+pyopenssl                 18.0.0                   py35_0    conda-forge
+pysocks                   1.6.8                    py35_2    conda-forge
+python                    3.5.6                hc3d631a_0  
+readline                  7.0                  h7b6447c_5  
+requests                  2.19.1                   py35_1    conda-forge
+setuptools                40.2.0                   py35_0  
+six                       1.11.0                   py35_1    conda-forge
+sqlite                    3.27.2               h7b6447c_0  
+tk                        8.6.8                hbc83047_0  
+urllib3                   1.23                     py35_1    conda-forge
+wheel                     0.31.1                   py35_0  
+wikipedia                 1.4.0                    py35_0    conda-forge
+xz                        5.2.4                h14c3975_4  
+zlib                      1.2.11               h7b6447c_3  
